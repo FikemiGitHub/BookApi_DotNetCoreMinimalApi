@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "90025969-9eef-43c6-bdc1-ede2d535689f": {
+      "ProjectGuid": "90025969-9eef-43c6-bdc1-ede2d535689f",
+      "DisplayName": "BookAPI",
+      "ColorIndex": 0
+    },
+    "7044b3ca-1a7c-4d5a-9bb3-ae0ba97a1b68": {
+      "ProjectGuid": "7044b3ca-1a7c-4d5a-9bb3-ae0ba97a1b68",
+      "DisplayName": "BookApi",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
